@@ -1,1 +1,2 @@
 # code
+print("main")
