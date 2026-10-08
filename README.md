@@ -1,2 +1,3 @@
 # code
 print("main")
+print
